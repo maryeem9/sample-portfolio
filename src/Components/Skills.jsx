@@ -20,7 +20,7 @@ export const Skills = () => {
     const neonColor = [
         "#ff00cc", //pink
         "#9966ff", //purple
-        "#ffffff" // white
+        "#86e868" // white
     ]
     return (
         <section id="skills" className="py-24 px-4 relative ">

@@ -65,7 +65,8 @@ export const Contact = () => {
                         </div>
                     </div>
 
-                    <div className="bg-card p-8 rounded-lg shadow-xs text-white">
+                    <div className="bg-card p-8 rounded-lg shadow-xs text-gray-900 dark:text-white">
+
                         <h3 className="text-2xl font-semibold mb-6">
                             Message Form
                         </h3>
